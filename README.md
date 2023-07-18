@@ -26,4 +26,4 @@ Next
 ```
 
 [^1]: Every line must ended with ```;```
-[^1]: Every line between DO and NEXT must ended with ```;```
+[^2]: Every line between DO and NEXT must ended with ```;```
